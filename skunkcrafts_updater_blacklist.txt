@@ -1,0 +1,4 @@
+fonts/Inter-Light.ttf
+fonts/Inter-Regular.ttf
+fonts/Inter-SemiBold.ttf
+fonts/LICENSE-Inter.txt
