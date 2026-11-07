@@ -1,2 +1,5 @@
+1.00.1
+- Fixed the mouse not lining up with the controls when X-Plane's UI size is above 100%
+
 1.00
 - Initial Public Release
