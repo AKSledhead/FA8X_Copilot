@@ -1,2 +1,9 @@
+1.00
+- Step climbs now work under time compression: the copilot drops the sim to 1x, climbs, then puts your speed back (Settings > Time compression)
+- Turning time compression on during a climb now stops the climb and holds altitude
+- Distance flown is now counted from the aircraft position, so distance steps and the TOD and waypoint pauses stay accurate under time compression
+- The Pause popup button now says Apply
+- The pause callout no longer ends with "Sim paused"
+
 0.99
 - Initial Public Release
