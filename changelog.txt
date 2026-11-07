@@ -1,7 +1,2 @@
 0.3.21
-- Updates now come through SkunkCrafts Updater
-- The Inter font is built into the plugin: no fonts folder any more
-- Pause popup: Zulu time and Done work again (the popup stays inside the window)
-- Pause chip with a dropdown arrow next to the Pause switch
-- SimBrief ID has a Save button; the copilot no longer reads it from other add-ons
-- The window has no X-Plane border: hover the top edge to move or close it
+- Initial Public Release
