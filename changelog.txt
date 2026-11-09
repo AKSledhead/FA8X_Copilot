@@ -1,3 +1,6 @@
+1.00.2
+- Step climbs start sooner after leveling off: level cruise now counts from the selected altitude after 30 seconds, and turbulence no longer restarts the wait
+
 1.00.1
 - Fixed the mouse not lining up with the controls when X-Plane's UI size is above 100%
 

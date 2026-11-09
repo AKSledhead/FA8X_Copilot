@@ -1,3 +1,3 @@
-64/win.xpl|886659632
-changelog.txt|36199361
+64/win.xpl|1132270259
+changelog.txt|1193360553
 THIRD_PARTY_NOTICES.txt|2392821953
