@@ -1,5 +1,5 @@
 64/win.xpl|3244544
-changelog.txt|1249
+changelog.txt|1357
 THIRD_PARTY_NOTICES.txt|8551
 voice/american/female_1/lines.pak|5101689
 voice/american/female_1/voice.txt|24
