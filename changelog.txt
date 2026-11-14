@@ -1,2 +1,19 @@
+1.1
+- Captain gives a takeoff briefing after the before start checklist, and an approach briefing as the descent begins: runway, flaps, speeds, altitudes and the weather (wind, crosswind, rain, snow, thunderstorms, visibility, ceilings, icing, windshear)
+- Takeoff briefing button on the speeds row, use it any time
+- Briefing runway comes from the FMS first, then SayIntentions, then SimBrief
+- New callouts: V2 plus ten, one thousand to go, localizer alive, glideslope alive, stable at 1,000 and 500 ft, spoilers, reverse, sixty knots
+- Seatbelt signs on in turbulence, off again once it's smooth
+- First officer turns the taxi light on with the gear
+- Crew waits while you're transmitting on SayIntentions
+- Window switches to the Checklist tab when a checklist starts (can be turned off in Settings)
+- Asian voices split into Chinese and Southeast Asian
+- All voices re-recorded with the new lines, clearer numbers, fixed pronunciations
+- Window can't get stuck off screen anymore, and can be dragged from the bottom edge too
+- Pop out window (Plugins menu) to move it to another screen
+- V1 and VR boxes show red until they're entered
+- ATC log is easier to read
+- Fixed: "Speed" called on approach while on speed
+
 1.0
 - Initial Public Release

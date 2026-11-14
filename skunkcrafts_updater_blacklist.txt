@@ -2,3 +2,11 @@ fonts/Inter-Light.ttf
 fonts/Inter-Regular.ttf
 fonts/Inter-SemiBold.ttf
 fonts/LICENSE-Inter.txt
+voice/asian/female_1/lines.pak
+voice/asian/female_1/voice.txt
+voice/asian/female_2/lines.pak
+voice/asian/female_2/voice.txt
+voice/asian/male_1/lines.pak
+voice/asian/male_1/voice.txt
+voice/asian/male_2/lines.pak
+voice/asian/male_2/voice.txt
