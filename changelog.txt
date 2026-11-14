@@ -1,3 +1,7 @@
+1.1.1
+- Fixed: a black window opening with the Falcon after using Pop out window. Pop out is removed for now
+- Fixed: an error box from Dear ImGui over the Flight page
+
 1.1
 - Captain gives a takeoff briefing after the before start checklist, and an approach briefing as the descent begins: runway, flaps, speeds, altitudes and the weather (wind, crosswind, rain, snow, thunderstorms, visibility, ceilings, icing, windshear)
 - Takeoff briefing button on the speeds row, use it any time
@@ -10,7 +14,6 @@
 - Asian voices split into Chinese and Southeast Asian
 - All voices re-recorded with the new lines, clearer numbers, fixed pronunciations
 - Window can't get stuck off screen anymore, and can be dragged from the bottom edge too
-- Pop out window (Plugins menu) to move it to another screen
 - V1 and VR boxes show red until they're entered
 - ATC log is easier to read
 - Fixed: "Speed" called on approach while on speed
