@@ -2,6 +2,8 @@ fonts/Inter-Light.ttf
 fonts/Inter-Regular.ttf
 fonts/Inter-SemiBold.ttf
 fonts/LICENSE-Inter.txt
+voice/american/male_6/lines.pak
+voice/american/male_6/voice.txt
 voice/asian/female_1/lines.pak
 voice/asian/female_1/voice.txt
 voice/asian/female_2/lines.pak
