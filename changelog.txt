@@ -1,13 +1,12 @@
 1.3
 - Added: macOS and Linux versions
-- Added: Approach briefing button on the Flight page once airborne
-- Added: Choose the runway for the takeoff and approach briefings from the airport's runways
+- Added: Approach briefing button on the Flight page, so you can call your approach brief whenever
+- Added: Runway dropdown for the takeoff and approach briefings: click a briefing button to pick the runway, then Brief now
 - Added: Italian, Dutch and Scandinavian voices
 - Changed: Approach briefing is now offered about 15 minutes before top of descent
-- Changed: Briefing buttons open a box with the runway and Brief now
-- Changed: New default captain and first officer voices (American male 6 is now the default first officer)
-- Fixed: "Speed" called on final when on speed
-- Removed: "One thousand" call on final, the Falcon makes its own
+- Changed: New default captain and first officer voices, originals had recording issues
+- Fixed: "Speed" call on final when actually on speed
+- Removed: Conflicting "One thousand" call on final with the Falcon GPWS
 
 1.2
 - Added: Weather page: enter your own departure, destination, alternate or any other airport
