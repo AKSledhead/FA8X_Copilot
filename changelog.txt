@@ -1,4 +1,5 @@
 1.3
+- Added: macOS and Linux versions
 - Added: Approach briefing button on the Flight page once airborne
 - Added: Choose the runway for the takeoff and approach briefings from the airport's runways
 - Added: Italian, Dutch and Scandinavian voices

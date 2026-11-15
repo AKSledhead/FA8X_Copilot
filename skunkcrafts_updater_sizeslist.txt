@@ -1,5 +1,7 @@
+64/lin.xpl|6069696
+64/mac.xpl|7209432
 64/win.xpl|3289088
-changelog.txt|2881
+changelog.txt|2915
 THIRD_PARTY_NOTICES.txt|8551
 voice/american/female_1/lines.pak|5101689
 voice/american/female_1/voice.txt|24
