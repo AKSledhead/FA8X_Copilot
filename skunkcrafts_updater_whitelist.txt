@@ -1,4 +1,4 @@
-64/win.xpl|3714251202
+64/win.xpl|2644841745
 changelog.txt|2124954240
 THIRD_PARTY_NOTICES.txt|1375408008
 voice/american/female_1/lines.pak|1380311767
