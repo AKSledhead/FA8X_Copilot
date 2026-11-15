@@ -1,8 +1,8 @@
 1.2
-- Weather page: enter your own departure, destination, alternate or any other airport
-- Copy and paste now work in text boxes
-- Settings page reorganized
-- Takeoff briefing button now says "Takeoff briefing"
+- Added: Weather page: enter your own departure, destination, alternate or any other airport
+- Added: Copy and paste now work in text boxes
+- Added: Takeoff briefing button next to V-speeds in Flight tab
+- Reorganized Settings page
 - Fixed: menus near the edge of the window couldn't be clicked
 - Fixed: window not drawing or clicking properly on some multi-monitor setups
 - Fixed: X-Plane keys not working after clicking in the window
