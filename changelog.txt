@@ -1,3 +1,24 @@
+1.2
+- Weather page: type your own departure, destination, alternate or any other airport, with or without a SimBrief plan
+- Copy and paste in text boxes: Ctrl+V, Ctrl+C, Ctrl+X, Ctrl+A, Ctrl+Z
+- Settings page sorted into Display, Crew, Flight and Connections
+- Menus near the edge of the window can be clicked all the way across
+- Window draws and clicks properly on every monitor
+- X-Plane's own keys work right after clicking in the window
+- Scrolling over the see-through edge of the window reaches the cockpit
+- Window is never taller than the screen
+- Flight progress and climb profile keep recording while the window is hidden
+- "One thousand" is called with the gear up too, followed by "Not configured"
+- "Spoilers" and "Reverse" aren't repeated after a bounce
+- "Sixty knots" waits for sixty knots, even with a strong headwind
+- "Localizer alive" isn't called when the ILS is tuned while already on course
+- Briefings use the FMS runway even without a SimBrief plan
+- Approach briefing weather is always fresh
+- Turbulence seatbelt call is tried once, then not again for ten minutes
+- A new flight resets the plugin's timers
+- Quitting X-Plane no longer waits on the plugin
+- Log file kept small
+
 1.1.1
 - Fixed: a black window opening with the Falcon after using Pop out window. Pop out is removed for now
 - Fixed: an error box from Dear ImGui over the Flight page
