@@ -1,40 +1,42 @@
 1.2
 - Added: Weather page: enter your own departure, destination, alternate or any other airport
-- Added: Copy and paste now work in text boxes
-- Added: Takeoff briefing button next to V-speeds in Flight tab
-- Reorganized Settings page
-- Fixed: menus near the edge of the window couldn't be clicked
-- Fixed: window not drawing or clicking properly on some multi-monitor setups
+- Added: Copy and paste in text boxes
+- Changed: Takeoff briefing button next to the V-speeds now says "Takeoff briefing"
+- Changed: Settings page reorganized
+- Fixed: Menus near the edge of the window couldn't be clicked
+- Fixed: Window not drawing or clicking properly on some multi-monitor setups
 - Fixed: X-Plane keys not working after clicking in the window
-- Fixed: mouse wheel over the window's clear edge not reaching the cockpit
-- Fixed: window could grow taller than the screen
-- Fixed: flight progress stopped recording while the window was hidden
-- Fixed: no "One thousand" call when the gear was still up
+- Fixed: Mouse wheel over the window's clear edge not reaching the cockpit
+- Fixed: Window could grow taller than the screen
+- Fixed: Flight progress stopped recording while the window was hidden
+- Fixed: No "One thousand" call when the gear was still up
 - Fixed: "Spoilers" and "Reverse" called twice after a bounce
 - Fixed: "Sixty knots" sometimes not called
 - Fixed: "Localizer alive" called when already on the localizer
-- Fixed: approach briefing could use old weather
-- Fixed: seatbelt call in turbulence repeating
+- Fixed: Approach briefing could use old weather
+- Fixed: Seatbelt call in turbulence repeating
 
 1.1.1
-- Fixed: a black window opening with the Falcon after using Pop out window. Pop out is removed for now
-- Fixed: an error box from Dear ImGui over the Flight page
+- Fixed: Black window opening with the Falcon after using Pop out
+- Fixed: Error box over the Flight page
+- Removed: Pop out window, for now
 
 1.1
-- Captain gives a takeoff briefing after the before start checklist, and an approach briefing as the descent begins: runway, flaps, speeds, altitudes and the weather (wind, crosswind, rain, snow, thunderstorms, visibility, ceilings, icing, windshear)
-- Takeoff briefing button on the speeds row, use it any time
-- Briefing runway comes from the FMS first, then SayIntentions, then SimBrief
-- New callouts: V2 plus ten, one thousand to go, localizer alive, glideslope alive, stable at 1,000 and 500 ft, spoilers, reverse, sixty knots
-- Seatbelt signs on in turbulence, off again once it's smooth
-- First officer turns the taxi light on with the gear
-- Crew waits while you're transmitting on SayIntentions
-- Window switches to the Checklist tab when a checklist starts (can be turned off in Settings)
-- Asian voices split into Chinese and Southeast Asian
-- All voices re-recorded with the new lines, clearer numbers, fixed pronunciations
-- Window can't get stuck off screen anymore, and can be dragged from the bottom edge too
-- V1 and VR boxes show red until they're entered
-- ATC log is easier to read
+- Added: Takeoff briefing after the before start checklist, and approach briefing as the descent begins: runway, flaps, speeds, altitudes and weather
+- Added: Takeoff briefing button next to the V-speeds, use it any time
+- Added: Callouts: V2 plus ten, one thousand to go, localizer alive, glideslope alive, stable at 1,000 and 500 ft, spoilers, reverse, sixty knots
+- Added: First officer turns the seatbelt signs on in turbulence, and off once it's smooth
+- Added: First officer turns the taxi light on with the gear
+- Added: Crew waits while you're talking on SayIntentions
+- Added: Window opens the Checklist tab when a checklist starts (can be turned off in Settings)
+- Added: Window can be dragged from the bottom edge
+- Added: V1 and VR boxes show red until they're entered
+- Changed: Briefing runway comes from the FMS first, then SayIntentions, then SimBrief
+- Changed: Asian voices split into Chinese and Southeast Asian
+- Changed: All voices re-recorded with clearer numbers and pronunciation
+- Changed: ATC log easier to read
+- Fixed: Window could get stuck off screen
 - Fixed: "Speed" called on approach while on speed
 
 1.0
-- Initial Public Release
+- Initial public release
