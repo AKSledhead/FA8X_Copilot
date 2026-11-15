@@ -1,23 +1,20 @@
 1.2
-- Weather page: type your own departure, destination, alternate or any other airport, with or without a SimBrief plan
-- Copy and paste in text boxes: Ctrl+V, Ctrl+C, Ctrl+X, Ctrl+A, Ctrl+Z
-- Settings page sorted into Display, Crew, Flight and Connections
-- Menus near the edge of the window can be clicked all the way across
-- Window draws and clicks properly on every monitor
-- X-Plane's own keys work right after clicking in the window
-- Scrolling over the see-through edge of the window reaches the cockpit
-- Window is never taller than the screen
-- Flight progress and climb profile keep recording while the window is hidden
-- "One thousand" is called with the gear up too, followed by "Not configured"
-- "Spoilers" and "Reverse" aren't repeated after a bounce
-- "Sixty knots" waits for sixty knots, even with a strong headwind
-- "Localizer alive" isn't called when the ILS is tuned while already on course
-- Briefings use the FMS runway even without a SimBrief plan
-- Approach briefing weather is always fresh
-- Turbulence seatbelt call is tried once, then not again for ten minutes
-- A new flight resets the plugin's timers
-- Quitting X-Plane no longer waits on the plugin
-- Log file kept small
+- Weather page: enter your own departure, destination, alternate or any other airport
+- Copy and paste now work in text boxes
+- Settings page reorganized
+- Takeoff briefing button now says "Takeoff briefing"
+- Fixed: menus near the edge of the window couldn't be clicked
+- Fixed: window not drawing or clicking properly on some multi-monitor setups
+- Fixed: X-Plane keys not working after clicking in the window
+- Fixed: mouse wheel over the window's clear edge not reaching the cockpit
+- Fixed: window could grow taller than the screen
+- Fixed: flight progress stopped recording while the window was hidden
+- Fixed: no "One thousand" call when the gear was still up
+- Fixed: "Spoilers" and "Reverse" called twice after a bounce
+- Fixed: "Sixty knots" sometimes not called
+- Fixed: "Localizer alive" called when already on the localizer
+- Fixed: approach briefing could use old weather
+- Fixed: seatbelt call in turbulence repeating
 
 1.1.1
 - Fixed: a black window opening with the Falcon after using Pop out window. Pop out is removed for now
