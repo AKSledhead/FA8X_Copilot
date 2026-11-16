@@ -1,3 +1,8 @@
+1.4.1
+- Changed: Better performance with the EFB on
+- Changed: Checklists scroll along with the item being called
+- Fixed: Wing lights not switched on before takeoff, or off above 18,000 ft
+
 1.4
 - Added: EFB! The plugin now has its own EFB on the captain's side ledge in the 3D cockpit (X-Plane 12.1 or later). Turn it on in Settings > EFB, then reload the aircraft once
     - Stows away in the seat pocket, click it in the pocket to bring it back
