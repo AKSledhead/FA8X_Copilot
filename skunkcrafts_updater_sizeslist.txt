@@ -1,7 +1,7 @@
-64/lin.xpl|6202192
-64/mac.xpl|7410504
-64/win.xpl|3373568
-changelog.txt|4517
+64/lin.xpl|6202416
+64/mac.xpl|7410584
+64/win.xpl|3374080
+changelog.txt|4845
 tablet/fa8x_tablet.dds|5592560
 tablet/fa8x_tablet.obj|841955
 tablet/fa8x_tablet_cockpit.obj|11883

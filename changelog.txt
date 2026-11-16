@@ -1,5 +1,10 @@
+1.4.2
+- Fixed: EFB screen not taking clicks on some setups (the arrow buttons worked, the screen didn't)
+- Fixed: EFB not added to the Falcon with the plugin installed in X-Plane's own plugins folder
+- Fixed: EFB clasps and mount looking green instead of black
+
 1.4.1
-- Changed: Better performance with the EFB on
+- Changed: Added on-demand drawing for better performance with the EFB on (miniscule effect, but good courtesy)
 - Changed: Checklists scroll along with the item being called
 - Fixed: Wing lights not switched on before takeoff, or off above 18,000 ft
 
