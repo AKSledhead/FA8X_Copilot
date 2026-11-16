@@ -1,3 +1,21 @@
+1.4
+- Added: EFB! The plugin now has its own EFB on the captain's side ledge in the 3D cockpit (X-Plane 12.1 or later). Turn it on in Settings > EFB, then reload the aircraft once
+    - Stows away in the seat pocket, click it in the pocket to bring it back
+    - Turn it on its side for a wider landscape layout
+    - Type straight into it, no need for the floating window
+    - Brightness slider, and the screen dims with the cockpit lighting at night
+    - Previous page, Flight page, next page and screen on/off buttons
+    - Window button to pop up the normal floating window
+- Added: Time compression in cruise: Off, 2x, 3x or 4x while level in cruise. Goes back to 1x for step climbs, near top of descent, before a pause and while the crew is working (Settings > Time compression)
+- Added: First officer turns the wing lights on before takeoff, off above 18,000 ft and back on below it
+- Added: Flight progress now shows your upcoming auto step climbs
+- Changed: Next climb now says why a climb is waiting, like "Step climb to FL410 once lighter" or "FL410 is above the ceiling"
+- Changed: After takeoff checklist is offered once more if it hasn't been run
+- Changed: Time compression always goes back to 1x for step climbs, the separate "1x for climbs" switch is gone
+- Fixed: Some clicks not registering, mostly on Mac trackpads
+- Fixed: Some text cutoffs
+- Fixed: Log showing ATC calls from your previous flight
+
 1.3
 - Added: macOS and Linux versions
 - Added: Approach briefing button on the Flight page, so you can call your approach brief whenever
