@@ -1,10 +1,12 @@
-64/lin.xpl|6202416
-64/mac.xpl|7410584
-64/win.xpl|3374080
-changelog.txt|4845
+64/lin.xpl|6766304
+64/mac.xpl|8187064
+64/win.xpl|3637760
+changelog.txt|5506
+tablet/AviTab.json|134
+tablet/avitab_panel.png|6489
 tablet/fa8x_tablet.dds|5592560
 tablet/fa8x_tablet.obj|841955
-tablet/fa8x_tablet_cockpit.obj|11883
+tablet/fa8x_tablet_cockpit.obj|13488
 tablet/fa8x_tablet_LIT.dds|5592560
 tablet/fa8x_tablet_NRM.png|1931979
 tablet/README.txt|734

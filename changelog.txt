@@ -1,3 +1,11 @@
+1.4.3
+- Added: Turnaround after the At Ramp checklist. Skips securing and goes back to cockpit preparation for the next flight, avionics on (Aerobask's turnaround procedure). Clear the previous flight data on the FMW POST FLIGHT page when asked
+- Added: AviTab on the EFB, if you have AviTab installed. Reload the Falcon once after updating
+- Changed: First officer turns the wing lights off after landing
+- Changed: No more green dot on Profile just for armed step climbs
+- Fixed: Weather and the approach briefing reading TEMPO and PROB forecast groups as the weather now (a TEMPO BKN030 showed MVFR)
+- Fixed: VR not taking typing after pressing Enter in V1
+
 1.4.2
 - Fixed: EFB screen not taking clicks on some setups (the arrow buttons worked, the screen didn't)
 - Fixed: EFB not added to the Falcon with the plugin installed in X-Plane's own plugins folder
