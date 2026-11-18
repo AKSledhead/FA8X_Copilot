@@ -1,3 +1,19 @@
+1.4.4
+- Fixed: Climbing to the level you asked for when ATC cleared a lower one and said to expect higher later ("climb FL380, expect FL400")
+- Fixed: Auto step climbs on a second flight or after a turnaround climbing right away, or showing a wait of hours
+- Fixed: Arming step climbs with the key binding not turning Optimum on
+- Fixed: No callouts or checklists after taking off again with the after landing or securing checklist left open
+- Fixed: ATC requests failing with "network busy" after one was cancelled
+- Fixed: Weather and ATIS that stopped updating for some airports
+- Fixed: Briefings calling windshear, rain or low visibility at airports whose code looks like weather (Singapore, Rome Ciampino, Brasilia)
+- Fixed: D-ATIS missing for the plan's airports after changing the airports on the Weather page
+- Fixed: Landing lights not changed at 10,000 ft when the first officer was busy with another switch
+- Fixed: Compact window coming back full size after a restart when the EFB was used
+- Fixed: Full window forgetting its width after a restart
+- Fixed: Date beside the Zulu time a day off for part of the day
+- Fixed: Time compression left on when the plugin is disabled
+- Fixed: Minor Fixes
+
 1.4.3
 - Added: Turnaround after the At Ramp checklist. Skips securing and goes back to cockpit preparation for the next flight, avionics on (Aerobask's turnaround procedure). Clear the previous flight data on the FMW POST FLIGHT page when asked
 - Added: AviTab on the EFB, if you have AviTab installed. Reload the Falcon once after updating
