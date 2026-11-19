@@ -1,3 +1,7 @@
+1.4.5
+- Added: A notice saying why the EFB isn't showing, and what to do
+- Changed: Step climbs use climb mode (CLB) at every level
+
 1.4.4
 - Fixed: Climbing to the level you asked for when ATC cleared a lower one and said to expect higher later ("climb FL380, expect FL400")
 - Fixed: Auto step climbs on a second flight or after a turnaround climbing right away, or showing a wait of hours
