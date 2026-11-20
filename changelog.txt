@@ -1,3 +1,7 @@
+1.4.6
+- Fixed: The EFB mount missing behind the EFB
+- Fixed: The reload notice not showing on the EFB
+
 1.4.5
 - Added: A notice saying why the EFB isn't showing, and what to do
 - Changed: Step climbs use climb mode (CLB) at every level
