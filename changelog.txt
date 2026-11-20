@@ -1,3 +1,8 @@
+1.4.7
+- Added: A notice when a new version of FA8X Copilot is available
+- Added: A notice when an aircraft update is detected, to reload the aircraft
+- Fixed: No way back from AviTab with the EFB turned on its side. Any EFB button now goes back
+
 1.4.6
 - Fixed: The EFB mount missing behind the EFB
 - Fixed: The reload notice not showing on the EFB
