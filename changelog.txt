@@ -1,8 +1,6 @@
 1.4.9
 - Added: A Skip key binding
 - Added: Pause on climb abort switch in Settings
-- Changed: The Taxi checklist is offered once the parking brake is off or you start to taxi
-- Changed: The Before takeoff checklist is offered when you stop at the holding point
 - Changed: The main button names the approach briefing, and the compact window's button names the checklist
 - Changed: The Pause switch stays on between sessions until it pauses
 - Changed: Step climbs switch off after landing
