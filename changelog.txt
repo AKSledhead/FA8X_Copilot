@@ -1,3 +1,12 @@
+1.4.8
+- Changed: Shorter messages and tooltips
+- Fixed: A wrong SimBrief ID showing only as a failed download. It now says "Invalid SimBrief ID"
+- Fixed: Step climbs turning off in cruise with no SimBrief plan loaded
+- Fixed: First officer calling "Airborne" while watching a replay
+- Fixed: Diverting to a US airport by its three-letter code (LAX) not finding the airport
+- Fixed: AviTab staying on with the EFB screen turned off
+- Fixed: Minor Fixes
+
 1.4.7
 - Added: A notice when a new version of FA8X Copilot is available
 - Added: A notice when an aircraft update is detected, to reload the aircraft
