@@ -1,58 +1,72 @@
+1.4.9
+- Added: A Skip key binding
+- Added: Pause on climb abort switch in Settings
+- Changed: The Taxi checklist is offered once the parking brake is off or you start to taxi
+- Changed: The Before takeoff checklist is offered when you stop at the holding point
+- Changed: The main button names the approach briefing, and the compact window's button names the checklist
+- Changed: The Pause switch stays on between sessions until it pauses
+- Changed: Step climbs switch off after landing
+- Changed: Loading your next SimBrief plan after a turnaround counts as clearing the previous flight
+- Fixed: The Before start checklist and takeoff briefing are offered when an engine is started early
+- Fixed: The first officer reminds you of missing takeoff speeds whether or not cockpit preparation was run
+- Fixed: The window's tab pulses when a checklist or briefing is ready
+- Fixed: Minor Fixes
+
 1.4.8
 - Changed: Shorter messages and tooltips
-- Fixed: A wrong SimBrief ID showing only as a failed download. It now says "Invalid SimBrief ID"
-- Fixed: Step climbs turning off in cruise with no SimBrief plan loaded
-- Fixed: First officer calling "Airborne" while watching a replay
-- Fixed: Diverting to a US airport by its three-letter code (LAX) not finding the airport
-- Fixed: AviTab staying on with the EFB screen turned off
+- Fixed: A wrong SimBrief ID shows "Invalid SimBrief ID"
+- Fixed: Step climbs stay on in cruise without a SimBrief plan loaded
+- Fixed: The first officer stays quiet while you watch a replay
+- Fixed: Divert finds a US airport by its three-letter code (LAX)
+- Fixed: AviTab goes dark with the EFB screen
 - Fixed: Minor Fixes
 
 1.4.7
 - Added: A notice when a new version of FA8X Copilot is available
-- Added: A notice when an aircraft update is detected, to reload the aircraft
-- Fixed: No way back from AviTab with the EFB turned on its side. Any EFB button now goes back
+- Added: A notice to reload the aircraft after an aircraft update
+- Fixed: Any EFB button goes back from AviTab, with the EFB upright or on its side
 
 1.4.6
-- Fixed: The EFB mount missing behind the EFB
-- Fixed: The reload notice not showing on the EFB
+- Fixed: The EFB mount shows behind the EFB
+- Fixed: The reload notice shows on the EFB
 
 1.4.5
 - Added: A notice saying why the EFB isn't showing, and what to do
 - Changed: Step climbs use climb mode (CLB) at every level
 
 1.4.4
-- Fixed: Climbing to the level you asked for when ATC cleared a lower one and said to expect higher later ("climb FL380, expect FL400")
-- Fixed: Auto step climbs on a second flight or after a turnaround climbing right away, or showing a wait of hours
-- Fixed: Arming step climbs with the key binding not turning Optimum on
-- Fixed: No callouts or checklists after taking off again with the after landing or securing checklist left open
-- Fixed: ATC requests failing with "network busy" after one was cancelled
-- Fixed: Weather and ATIS that stopped updating for some airports
-- Fixed: Briefings calling windshear, rain or low visibility at airports whose code looks like weather (Singapore, Rome Ciampino, Brasilia)
-- Fixed: D-ATIS missing for the plan's airports after changing the airports on the Weather page
-- Fixed: Landing lights not changed at 10,000 ft when the first officer was busy with another switch
-- Fixed: Compact window coming back full size after a restart when the EFB was used
-- Fixed: Full window forgetting its width after a restart
-- Fixed: Date beside the Zulu time a day off for part of the day
-- Fixed: Time compression left on when the plugin is disabled
+- Fixed: Step climbs stop at the level ATC cleared when they say to expect higher later ("climb FL380, expect FL400")
+- Fixed: Auto step climbs on a second flight or after a turnaround wait for the right time
+- Fixed: Arming step climbs with the key binding turns Optimum on
+- Fixed: Callouts and checklists carry on when you take off again with the after landing or securing checklist open
+- Fixed: ATC requests go through after one was cancelled
+- Fixed: Weather and ATIS keep updating for every airport
+- Fixed: Briefings read the weather right at airports whose code looks like weather (Singapore, Rome Ciampino, Brasilia)
+- Fixed: D-ATIS shows for the plan's airports after changing airports on the Weather page
+- Fixed: Landing lights change at 10,000 ft while the first officer is busy with another switch
+- Fixed: The compact window stays compact after a restart with the EFB in use
+- Fixed: The full window keeps its width after a restart
+- Fixed: The date beside the Zulu time is right all day
+- Fixed: Time compression goes back to 1x when the plugin is disabled
 - Fixed: Minor Fixes
 
 1.4.3
 - Added: Turnaround after the At Ramp checklist. Skips securing and goes back to cockpit preparation for the next flight, avionics on (Aerobask's turnaround procedure). Clear the previous flight data on the FMW POST FLIGHT page when asked
 - Added: AviTab on the EFB, if you have AviTab installed. Reload the Falcon once after updating
 - Changed: First officer turns the wing lights off after landing
-- Changed: No more green dot on Profile just for armed step climbs
-- Fixed: Weather and the approach briefing reading TEMPO and PROB forecast groups as the weather now (a TEMPO BKN030 showed MVFR)
-- Fixed: VR not taking typing after pressing Enter in V1
+- Changed: Armed step climbs alone don't light the green dot on Profile
+- Fixed: Weather and the approach briefing treat TEMPO and PROB groups as forecasts, not the weather now
+- Fixed: VR takes typing after pressing Enter in V1
 
 1.4.2
-- Fixed: EFB screen not taking clicks on some setups (the arrow buttons worked, the screen didn't)
-- Fixed: EFB not added to the Falcon with the plugin installed in X-Plane's own plugins folder
-- Fixed: EFB clasps and mount looking green instead of black
+- Fixed: The EFB screen takes clicks on every setup
+- Fixed: The EFB is added to the Falcon with the plugin in X-Plane's own plugins folder
+- Fixed: The EFB clasps and mount are black
 
 1.4.1
-- Changed: Added on-demand drawing for better performance with the EFB on (miniscule effect, but good courtesy)
+- Changed: Better performance with the EFB on (miniscule effect, but good courtesy)
 - Changed: Checklists scroll along with the item being called
-- Fixed: Wing lights not switched on before takeoff, or off above 18,000 ft
+- Fixed: Wing lights go on before takeoff and off above 18,000 ft
 
 1.4
 - Added: EFB! The plugin now has its own EFB on the captain's side ledge in the 3D cockpit (X-Plane 12.1 or later). Turn it on in Settings > EFB, then reload the aircraft once
@@ -64,45 +78,45 @@
     - Window button to pop up the normal floating window
 - Added: Time compression in cruise: Off, 2x, 3x or 4x while level in cruise. Goes back to 1x for step climbs, near top of descent, before a pause and while the crew is working (Settings > Time compression)
 - Added: First officer turns the wing lights on before takeoff, off above 18,000 ft and back on below it
-- Added: Flight progress now shows your upcoming auto step climbs
-- Changed: Next climb now says why a climb is waiting, like "Step climb to FL410 once lighter" or "FL410 is above the ceiling"
+- Added: Flight progress shows your upcoming auto step climbs
+- Changed: Next climb says why a climb is waiting, like "Step climb to FL410 once lighter" or "FL410 is above the ceiling"
 - Changed: After takeoff checklist is offered once more if it hasn't been run
-- Changed: Time compression always goes back to 1x for step climbs, the separate "1x for climbs" switch is gone
-- Fixed: Some clicks not registering, mostly on Mac trackpads
-- Fixed: Some text cutoffs
-- Fixed: Log showing ATC calls from your previous flight
+- Changed: Time compression always goes back to 1x for step climbs, so the separate "1x for climbs" switch is gone
+- Fixed: Clicks register every time, Mac trackpads included
+- Fixed: Long text fits its space
+- Fixed: The Log shows only this flight's ATC calls
 
 1.3
 - Added: macOS and Linux versions
 - Added: Approach briefing button on the Flight page, so you can call your approach brief whenever
 - Added: Runway dropdown for the takeoff and approach briefings: click a briefing button to pick the runway, then Brief now
 - Added: Italian, Dutch and Scandinavian voices
-- Changed: Approach briefing is now offered about 15 minutes before top of descent
-- Changed: New default captain and first officer voices, originals had recording issues
-- Fixed: "Speed" call on final when actually on speed
-- Removed: Conflicting "One thousand" call on final with the Falcon GPWS
+- Changed: Approach briefing is offered about 15 minutes before top of descent
+- Changed: New default captain and first officer voices
+- Fixed: "Speed" on final is called only when off speed
+- Removed: The first officer's "One thousand" call on final, which clashed with the Falcon's own GPWS call
 
 1.2
 - Added: Weather page: enter your own departure, destination, alternate or any other airport
 - Added: Copy and paste in text boxes
-- Changed: Takeoff briefing button next to the V-speeds now says "Takeoff briefing"
+- Changed: Takeoff briefing button next to the V-speeds says "Takeoff briefing"
 - Changed: Settings page reorganized
-- Fixed: Menus near the edge of the window couldn't be clicked
-- Fixed: Window not drawing or clicking properly on some multi-monitor setups
-- Fixed: X-Plane keys not working after clicking in the window
-- Fixed: Mouse wheel over the window's clear edge not reaching the cockpit
-- Fixed: Window could grow taller than the screen
-- Fixed: Flight progress stopped recording while the window was hidden
-- Fixed: No "One thousand" call when the gear was still up
-- Fixed: "Spoilers" and "Reverse" called twice after a bounce
-- Fixed: "Sixty knots" sometimes not called
-- Fixed: "Localizer alive" called when already on the localizer
-- Fixed: Approach briefing could use old weather
-- Fixed: Seatbelt call in turbulence repeating
+- Fixed: Menus near the edge of the window can be clicked
+- Fixed: The window draws and clicks properly on multi-monitor setups
+- Fixed: X-Plane keys keep working after clicking in the window
+- Fixed: The mouse wheel over the window's clear edge reaches the cockpit
+- Fixed: The window stays within the screen's height
+- Fixed: Flight progress keeps recording while the window is hidden
+- Fixed: "One thousand" is called with the gear still up
+- Fixed: "Spoilers" and "Reverse" are called once after a bounce
+- Fixed: "Sixty knots" is called every time
+- Fixed: "Localizer alive" is called as the localizer comes alive
+- Fixed: The approach briefing uses the latest weather
+- Fixed: The seatbelt call in turbulence is made once
 
 1.1.1
-- Fixed: Black window opening with the Falcon after using Pop out
-- Fixed: Error box over the Flight page
+- Fixed: The window opens normally with the Falcon after using Pop out
+- Fixed: The Flight page shows without an error box
 - Removed: Pop out window, for now
 
 1.1
@@ -119,8 +133,8 @@
 - Changed: Asian voices split into Chinese and Southeast Asian
 - Changed: All voices re-recorded with clearer numbers and pronunciation
 - Changed: ATC log easier to read
-- Fixed: Window could get stuck off screen
-- Fixed: "Speed" called on approach while on speed
+- Fixed: The window stays on screen
+- Fixed: "Speed" on approach is called only when off speed
 
 1.0
 - Initial public release
