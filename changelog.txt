@@ -1,3 +1,15 @@
+1.5
+- Added: Settings > Flight > Off-track watch: your copilot flags when the aircraft is off the planned route or flying away from the destination, and pauses the sim if it keeps going
+- Added: Settings > Flight > Minimum fuel: the sim pauses when the fuel on board gets down to it
+- Added: Fuel on board compared with your SimBrief plan at each waypoint, with a bar in the window when it's 500 lb or more below plan
+- Added: Settings > Crew > Automatic ice protection: your copilot works the engine and wing anti-ice by the Falcon flight manual's icing rule
+- Added: The Falcon's TOLD speeds, once Aerobask's update shares them: V1, VR and V2 filled in, the flaps-up speed after takeoff and go-around, and VFR, VFT, VREF, VAPP and takeoff pitch on the Flight page
+- Changed: Your copilot sets the landing lights to pulse and the taxi light off at positive rate, and the landing lights to pulse descending through 18,000 ft
+- Changed: At the ramp, your copilot also switches off the no smoking sign and the engine anti-ice
+- Changed: Fuel quantity and Gross weight in the Cockpit preparation checklist are checked against your SimBrief plan
+- Fixed: The V1 and VR boxes take typing after using the Falcon's FMS keyboard
+- Fixed: Minor Fixes
+
 1.4.9
 - Added: Skip can be bound to a key or joystick button (FA8X Copilot: Skip)
 - Added: Settings > Flight > Pause on climb abort, to choose whether the sim pauses when a step climb is stopped
