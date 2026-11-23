@@ -8,6 +8,7 @@
 - Fixed: The Before start checklist and takeoff briefing are still offered if you start an engine before running them
 - Fixed: The reminder to enter V1 and VR comes even when the Cockpit preparation checklist was skipped
 - Fixed: The window's tab at the edge of the screen pulses when a checklist or briefing is ready
+- Fixed: The V1 and VR boxes come back after landing even if Settings > Crew > Copilot flows was off for the landing
 - Fixed: Minor Fixes
 
 1.4.8
