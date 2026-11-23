@@ -1,13 +1,13 @@
 1.4.9
-- Added: A Skip key binding
-- Added: Pause on climb abort switch in Settings
-- Changed: The main button names the approach briefing, and the compact window's button names the checklist
-- Changed: The Pause switch stays on between sessions until it pauses
-- Changed: Step climbs switch off after landing
-- Changed: Loading your next SimBrief plan after a turnaround counts as clearing the previous flight
-- Fixed: The Before start checklist and takeoff briefing are offered when an engine is started early
-- Fixed: The first officer reminds you of missing takeoff speeds whether or not cockpit preparation was run
-- Fixed: The window's tab pulses when a checklist or briefing is ready
+- Added: Skip can be bound to a key or joystick button (FA8X Copilot: Skip)
+- Added: Settings > Flight > Pause on climb abort, to choose whether the sim pauses when a step climb is stopped
+- Changed: The Confirm button at the bottom of the window reads "Approach briefing" when that briefing is ready
+- Changed: In the compact window, the Confirm button shows the checklist's name instead of "Start"
+- Changed: Auto Step Climbs switches off after landing
+- Changed: After a turnaround, loading your next SimBrief plan clears the "Clear last flight (FMW POST FLIGHT)" step
+- Fixed: The Before start checklist and takeoff briefing are still offered if you start an engine before running them
+- Fixed: The reminder to enter V1 and VR comes even when the Cockpit preparation checklist was skipped
+- Fixed: The window's tab at the edge of the screen pulses when a checklist or briefing is ready
 - Fixed: Minor Fixes
 
 1.4.8
