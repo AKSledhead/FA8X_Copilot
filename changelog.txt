@@ -1,4 +1,6 @@
 1.5.1
+- Added: VR support: the window opens in the headset when X-Plane is in VR
+- Added: In VR, V1 and VR are entered on a number pad
 - Fixed: X-Plane's keys keep working when the window is hidden while you're typing in it
 - Fixed: The off-track bar comes down while diverting and near the arrival
 - Fixed: The destination check stays quiet on the departure
