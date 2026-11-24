@@ -1,3 +1,7 @@
+1.5.3
+- Fixed: The EFB responds to taps in VR
+- Fixed: Minor Fixes
+
 1.5.2
 - Added: VR support: the window opens in the headset when X-Plane is in VR
 - Added: In VR, V1 and VR are entered on a number pad

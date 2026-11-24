@@ -1,7 +1,7 @@
-64/lin.xpl|1052206317
-64/mac.xpl|1763519196
-64/win.xpl|2787094062
-changelog.txt|3828028445
+64/lin.xpl|1907982123
+64/mac.xpl|3089625829
+64/win.xpl|2090755416
+changelog.txt|1129129437
 tablet/AviTab.json|2723618834
 tablet/avitab_panel.png|1441698821
 tablet/fa8x_tablet.dds|1964224362
