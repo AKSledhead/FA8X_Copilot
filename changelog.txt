@@ -1,5 +1,6 @@
 1.5.4
 - Added: A bar in the window when an old copy is still in the Falcon's plugins folder
+- Added: A new install in Resources\plugins takes its settings from the old copy in the Falcon's plugins folder
 - Changed: The plugin installs in X-Plane's Resources\plugins folder, where SkunkCrafts Updater finds it
 - Changed: Outside the Falcon 8X the plugin stays hidden: no window and no keyboard commands
 - Fixed: Minor Fixes
