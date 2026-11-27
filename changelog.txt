@@ -1,3 +1,8 @@
+1.5.6
+- Changed: The About page uses the plugin's own colours
+- Fixed: The EFB couldn't be added when another program had the Falcon's .acf open for a moment
+- Fixed: Minor Fixes
+
 1.5.5
 - Added: Settings > Crew > Cockpit flows, Checklists and briefings, and Callouts, each on its own. Set your own switches and keep the checklists and calls
 - Added: An About page with the credits, and a way to support the plugin
