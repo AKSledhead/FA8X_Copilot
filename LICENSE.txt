@@ -1,0 +1,27 @@
+FA8X Copilot
+Copyright (c) 2026 Joseph Chamberlain. All rights reserved.
+
+FA8X Copilot is free to download and use. It is licensed to you, not sold.
+
+You may install FA8X Copilot and use it with X-Plane on your own computers.
+
+You may not, for any purpose, including personal and non-commercial use:
+- copy, share, upload, mirror or redistribute it, in whole or in part, changed or
+  unchanged, except the copies made by installing and updating it;
+- modify, adapt or translate it, or make other works from it, including its code,
+  voices, images and documents;
+- decompile, disassemble or reverse engineer it, except where the law allows this;
+- sell or rent it, or include it in another product or package.
+
+Download it only from the x-plane.org library or update it through the
+SkunkCrafts Updater.
+
+Third-party parts: the software, typeface and EFB model listed in
+THIRD_PARTY_NOTICES.txt are under their own licences. Nothing here limits your
+rights under those licences.
+
+FA8X Copilot is provided "as is", without warranty of any kind. The author is not
+liable for any claim, damage or loss arising from its use.
+
+Not affiliated with Aerobask, Laminar Research, SimBrief, SayIntentions or
+SkunkCrafts.

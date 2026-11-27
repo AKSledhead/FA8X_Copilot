@@ -1,3 +1,6 @@
+1.5.7
+- Fixed: Minor Fixes
+
 1.5.6
 - Changed: When the EFB can't be added, the plugin tries again for a minute before showing the error
 - Changed: The About page uses the plugin's own colours
