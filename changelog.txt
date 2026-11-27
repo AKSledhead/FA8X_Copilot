@@ -1,6 +1,6 @@
 1.5.6
+- Changed: When the EFB can't be added, the plugin tries again for a minute before showing the error
 - Changed: The About page uses the plugin's own colours
-- Fixed: The EFB couldn't be added when another program had the Falcon's .acf open for a moment
 - Fixed: Minor Fixes
 
 1.5.5
