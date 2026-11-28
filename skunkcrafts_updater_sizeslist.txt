@@ -1,8 +1,8 @@
-64/lin.xpl|6917256
-64/mac.xpl|8402328
-64/win.xpl|3748864
-Changelog.pdf|139347
-changelog.txt|11165
+64/lin.xpl|6932336
+64/mac.xpl|8440888
+64/win.xpl|3761664
+Changelog.pdf|142060
+changelog.txt|11394
 LICENSE.txt|1209
 tablet/AviTab.json|134
 tablet/avitab_panel.png|6489

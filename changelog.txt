@@ -1,3 +1,9 @@
+1.5.8
+- Added: (i) notes beside each setting: hover or click for what it does
+- Added: Settings > Display > Info tooltips turns the notes off
+- Changed: Settings sections are on the side rail, with a search
+- Fixed: Minor Fixes
+
 1.5.7
 - Fixed: Minor Fixes
 
